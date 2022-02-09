@@ -1,16 +1,16 @@
-### Hi there 👋
+# Halo semua! 
 
-<!--
-**nuryadincjr/nuryadincjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Perkenalkan nama saya **Nuryadin Abutani**.
 
-Here are some ideas to get you started:
+Saya seorang **Mahasiswa** di [Sekolah Tinggi Teknologi Bandung](https://sttbandung.ac.id/).
+- 🔭 I’m currently working on MSIB program batch 1
+- 🌱 I’m currently learning  android with java native
+- 👯 I’m looking to collaborate on bankit 2022
+- 🤔 I’m looking for help with digital references
+- 💬 Ask me about my dream
+- 📫 How to reach me: my portofolio[nuryadin.cjr.github.io](https://nuryadincjr.github.io/)
+- 😄 Pronouns: He
+- ⚡ Fun fact: I'm a human
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http://linkedin.com/in/nuryadin-abutani-8b38b2195) atau untuk informasi lebih lengkap bisa lihat di portofolio [nuryadin.cjr.github.io](https://nuryadincjr.github.io/) ku ya.
+
