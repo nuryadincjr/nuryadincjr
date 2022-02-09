@@ -8,7 +8,7 @@ Saya seorang **Mahasiswa** di [Sekolah Tinggi Teknologi Bandung](https://sttband
 - 👯 I’m looking to collaborate on bankit 2022
 - 🤔 I’m looking for help with digital references
 - 💬 Ask me about my dream
-- 📫 How to reach me: my portofolio[nuryadin.cjr.github.io](https://nuryadincjr.github.io/)
+- 📫 How to reach me: my portofolio [nuryadin.cjr.github.io](https://nuryadincjr.github.io/)
 - 😄 Pronouns: He
 - ⚡ Fun fact: I'm a human
 
