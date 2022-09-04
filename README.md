@@ -78,6 +78,8 @@
                 src="https://img.shields.io/badge/Intermediate%20Android-gren?style=for-the-badge" /></a>
         <a href="https://dicoding.com/certificates/L4PQ3O5R7PO1"><img alt="Nuryadin's Activity Graph"
                 src="https://img.shields.io/badge/Fundamentals%20Android-gray?style=for-the-badge" /></a>
+        <a href="https://www.dicoding.com/certificates/JMZVG76WOZN9"><img alt="Nuryadin's Activity Graph"
+                src="https://img.shields.io/badge/Expert%20Android-black?style=for-the-badge" /></a>
         </p>
       </div>
       
