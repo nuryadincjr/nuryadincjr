@@ -72,13 +72,17 @@
         <p align="center">
           <a
             href="https://sttbandungacid-my.sharepoint.com/:b:/g/personal/19552011182_sttbandung_ac_id/EWqgIIfRebNLjr-Zxku5ZU0Bg_IqHddwOzkbi4UrVsIVIQ?e=SgAdZW"><img
-                alt="Nuryadin's Activity Graph"
+                alt="Nuryadin's Certification"
                 src="https://img.shields.io/badge/Java%20Android%20Kampus%20PMerdeka-blue?style=for-the-badge" /></a>
-        <a href="https://dicoding.com/certificates/81P2G1V0QPOY"><img alt="Nuryadin's Activity Graph"
+          <a
+            href="https://drive.google.com/file/d/1Fyrghy9tySr-xVIbIwtEpMZnghUTOhc-/view?usp=sharing"><img
+                alt="Nuryadin's Certification"
+                src="https://img.shields.io/badge/Specializing%20in%20Mobile%20PDevelopment-red?style=for-the-badge" /></a>
+        <a href="https://dicoding.com/certificates/81P2G1V0QPOY"><img alt="Nuryadin's Certification"
                 src="https://img.shields.io/badge/Intermediate%20Android-gren?style=for-the-badge" /></a>
-        <a href="https://dicoding.com/certificates/L4PQ3O5R7PO1"><img alt="Nuryadin's Activity Graph"
+        <a href="https://dicoding.com/certificates/L4PQ3O5R7PO1"><img alt="Nuryadin's Certification"
                 src="https://img.shields.io/badge/Fundamentals%20Android-gray?style=for-the-badge" /></a>
-        <a href="https://www.dicoding.com/certificates/JMZVG76WOZN9"><img alt="Nuryadin's Activity Graph"
+        <a href="https://www.dicoding.com/certificates/JMZVG76WOZN9"><img alt="Nuryadin's Certification"
                 src="https://img.shields.io/badge/Expert%20Android-black?style=for-the-badge" /></a>
         </p>
       </div>
