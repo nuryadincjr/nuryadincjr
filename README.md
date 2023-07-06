@@ -141,3 +141,6 @@
     <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Nuryadin's Activity Graph"
             src="https://activity-graph.herokuapp.com/graph/?username=nuryadincjr&theme=react-dark&hide_border=true" /></a>
 </details>
+
+![brand_co](https://github.com/nuryadincjr/nuryadincjr/assets/51723168/5d9ae4c7-cda4-4abf-abeb-e9c1dcb1dd82)
+
